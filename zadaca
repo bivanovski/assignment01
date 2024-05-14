@@ -1,0 +1,37 @@
+Login to your GiHub account and create a repository assignment01. Clone the repository to your device and open the directory as a project in Visual Studio Code.
+
+1. Inside create main.py file (for now empty) which will contain your main code.
+
+     1.1. Commit with a message on the new change and push the changes to online repository (commit 1)
+
+2. Create a new branch to work on a new feature, switch to that branch and do the following feature: Create a new file swap.py which will contain a function that will only receive 2 numbers entered by the user in main.py (from 0 to 3) to swap them with strings of the numbers. Example: a = 0, b = 2, the output would be a = zero, b = two;
+
+     2.1. Commit with a message on the new feature and push the changes to onlince repository (commit 2)
+
+3. Create a new branch to work on a new feature, switch to that branch and do the following feature: Create a new direcotry called extras and inside creade a new file desc.py which will contain a function that will receive 1 number entered by the user in main.py that will print natural numbers in descending order until 0 using while loop. Example: 5, output would be 5 4 3 2 1.
+
+     3.1. Commit with a message on the new feature and push the changes to onlince repository (commit 3)
+
+4. Return to your main branch and work on your main code file: In your main.py file import these two modules and create a program that will call the functions from both modules accordingly one by one and present the output on screen.
+
+     4.1. Commit with a message on the main file changes and push the changes to onlince repository (commit 4)
+
+5. After confirming that the files are online and merged in the repository and all commits are present, delete the two branches created for the features.
+
+6. Screenshot the repository to show the commits done and together with the project files put them in .zip or .rar archive and attach it to this assignment + copy / paste the link of the public repository in the essay as addition.
+
+Example output of the program:
+
+Please enter two numbers to swap to string:
+
+0
+
+2
+
+Please enter a number to print it in natural descending order:
+
+5
+
+The two swaped numbers are: zero and two
+
+Natural descending order of 5 is: 5 4 3 2 1
