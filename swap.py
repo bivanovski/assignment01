@@ -6,5 +6,3 @@ def swap(num1,num2):
     else:
         print('Out of range')    
         
-    
-swap(1,2)

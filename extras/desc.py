@@ -1,6 +1,6 @@
 def func(number):
     while number > 0:
-        print(number)
+        print(number, end=' ')
         number = number - 1
         
     
